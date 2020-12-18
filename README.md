@@ -2,9 +2,12 @@
 Here I explore what makes ramen great and where it comes from! 
 - The data is from Kaggle
 
-11/12/20
-So far I have done some basic EDA to determine which countries are making the best ramen and which countries produce the most. 
+To start with I do some bsaic exploratory data analysis to try and better understand the data.
 
-I have also begun to use some NLP for some feature engineering. I hope to extract infomation about flavours from the description to find out what makes the best ramen. 
+Generally, the data has a lot of catergorical variables, so the project focuses on feature engineering using NLP.
 
-My final aim is to make a predictive model that can predict how highly rated a Ramen will be.
+The final step includes trying to make a predictive model for the rating of sushi based on the features. I employ the use of a number of machine learning techniques.
+
+
+
+
